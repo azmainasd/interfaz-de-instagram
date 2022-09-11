@@ -1,0 +1,37 @@
+.pro_pic {
+    margin-left: 70px;
+}
+.pro_pic img{
+    height: 145px;
+    width: 145px;
+    border-radius: 80px;
+}
+
+.profile_info{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0px;
+    border-bottom: 1px solid gray;
+}
+
+.basic_info {
+    width: 60%;
+    font-family: 'Roboto', sans-serif;
+}
+.basic_info div{
+    display: flex;
+    justify-content: space-between;
+    width: 48%;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 9%;
+}
+.gallery img{
+    width: 28%;
+    height: 250px;
+    margin-bottom: 18px;
+    margin-right: 18px;
+}

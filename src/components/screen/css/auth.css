@@ -1,0 +1,46 @@
+.row {
+    margin: 0px;
+}
+p{
+    margin: 0px;
+}
+.auth-card {
+    max-width: 390px;
+    margin: 50px auto;
+    margin-bottom: 20px;
+    padding: 60px 47px;
+}
+.sign_up {
+    max-width: 390px;
+    margin: 35px auto;
+    margin-bottom: 20px;
+    padding: 50px 47px;
+    padding-bottom: 40px;
+}
+
+.head {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.btn_large {
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* label underline focus color */
+.input-field input:focus {
+    border-bottom: 1px solid #90caf9 !important;
+    box-shadow: 0 1px 0 0 #90caf9 !important;
+}
+
+.small_card{
+    max-width: 390px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.text-middle{
+    text-align: center;
+    margin: 0px;
+}

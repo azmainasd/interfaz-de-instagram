@@ -1,0 +1,21 @@
+._main {
+    background-color: #ffffff;
+    color: black;
+}
+._main .nav-wrapper{
+    padding: 0px 5%;
+}
+
+._main ul li a{
+    color: #3a3a3a;
+}
+
+._main .brand-logo{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+._main .brand-logo img{
+    height: 40px;
+    margin-top: 5px;
+}
