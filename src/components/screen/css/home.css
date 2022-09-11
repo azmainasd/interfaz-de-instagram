@@ -1,0 +1,19 @@
+.card.home_card {
+    width: 500px;
+    height: max-content;
+    margin: 30px auto;
+    border-radius: 5px;
+}
+.profile {
+    padding: 13px;
+}
+.content{
+    padding: 13px;
+    margin: 0px;
+}
+.card-image img {
+    height: 500px;
+}
+.content i.Small.material-icons {
+    color: red;
+}
