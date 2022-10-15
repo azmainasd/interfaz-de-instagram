@@ -1,0 +1,12 @@
+.input-card {
+    width: 500px;
+    height: max-content;
+    padding: 20px;
+    margin: 30px auto;
+    border-radius: 5px;
+}
+/* label underline focus color */
+input:focus {
+    border-bottom: 1px solid #90caf9 !important;
+    box-shadow: 0 1px 0 0 #90caf9 !important;
+}

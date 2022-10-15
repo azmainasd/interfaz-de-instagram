@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import './css/profile.css'
 
 const Profile = () =>{
@@ -16,6 +17,11 @@ const Profile = () =>{
                             <p><b>40</b> posts</p>
                             <p><b>40</b> followers</p>
                             <p><b>40</b> following</p>
+                        </div>
+                        <div style={{paddingTop: '20px'}}>
+                            <Link to='/create-post'>
+                                <p><i class="material-icons tiny">camera_alt</i> Share Photos</p>
+                            </Link>
                         </div>
                     </div>
                 </div>
